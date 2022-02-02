@@ -1,0 +1,15 @@
+**Coding Challenge Instructions/ Important Information**
+
+The main file of operation 'Coding Challenge' composes of three options for the user to choose from. The user must type
+in the number 1, 2 or 3. Should the user type in an incorrect option, the program will ask the user to select again.
+
+   * 'Option 1': The first choice the user to input their City/country of choice in the terminal. Upon completion,
+   the user will receive the current weather conditions, temperature and humidity. The data is then stored
+   into a '.csv file' for documentation.
+
+   * 'Option 2': The user will receive the mean value temperature/humidity stored in the "WeatherDate.csv" file.
+   The user will will also receive the median value of the recorded temperature/humidity.
+
+   * 'Option 3': The third option will terminate and exit the code.
+
+Note: User may need to adjust the path directory ('CodingChallange' Line: 48)
